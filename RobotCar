@@ -7,7 +7,7 @@
 #endif
 
 // fuer Neopixel
-#define PIN 10
+#define PIN 8
 #define AnzahlLEDs 4
 #define rot 1
 #define green 2
