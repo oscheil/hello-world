@@ -1,4 +1,4 @@
-int g_1 = 10;
+int g_1 = 8;
 int y_1 = 9;
 int r_1 = 8;
 
